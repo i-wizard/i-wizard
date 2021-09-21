@@ -8,7 +8,7 @@
 Here are some few information about me:
 
 - 🔭 I’m currently working on cryptocurrency hybrid app 📱
-- 🌱 I’m currently learning continuous and docker 🧑‍💻...
+- 🌱 I’m currently learning continuous integration and docker 🧑‍💻...
 - 👯 I’m looking to collaborate on any open source project
 - 🤔 I’m looking for help with learning how to network🤝
 - 💬 Ask me about python, react-native, vuejs, django & aws 🤓
