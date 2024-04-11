@@ -7,7 +7,7 @@
 
 Here are some few information about me:
 
-- 🔭 I’m currently working on an LLM app 📱
+- 🔭 I’m currently working on an a Large Language Model 📱
 - 🌱 I’m currently learning AI(LLM), devops and Infrastructure as Code 🧑‍💻...
 - 👯 I’m looking to collaborate on any open source project
 - 🤔 I’m looking for help with learning how to network🤝
